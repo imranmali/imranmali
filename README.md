@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Senior Java Backend Engineer</h1>
+<h1 align="center">Hi 👋, I'm a Senior Backend Engineer</h1>
 <h3 align="center">Building Scalable Cloud-Native Systems | Java 21 | AWS | GCP</h3>
 
 ---
